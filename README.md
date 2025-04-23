@@ -1,6 +1,6 @@
 # The Coder Cafe 1000 Subscriber Challenge Solution
 
-You can read the solution at https://noclaps.github.io/1000SubComp/graph, or view the Mermaid flowchart used to solve it at https://noclaps.github.io/1000SubComp/
+You can read the solution at https://noclaps.github.io/1000SubComp/, or view the Mermaid flowchart used to solve it at https://noclaps.github.io/1000SubComp/flowchart
 
 The maximum number of passengers is 66 (33 to `A24` and 33 to `A28`). It is impossible to reach any of the other destination nodes without first going through another destination.
 
